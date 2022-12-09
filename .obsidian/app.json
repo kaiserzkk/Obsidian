@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "附件",
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
+}

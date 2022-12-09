@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "6139367b5ab03f3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "099ae923c845d8dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a467f18222bfdabb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "附件/vue.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03aa9bf95651f120",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "68c2ffc80b728005",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "681fb741d3d6c386",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "43d8248b372db593",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c389c7a4bb7f63f0",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "74fd258af7891882",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a19f4b50ad7cbd0a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "附件/vue.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "04c7a7dc8f0b4837",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "附件/vue.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2a6b4d4966e79b3c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "附件/vue.pdf"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a467f18222bfdabb",
+  "lastOpenFiles": [
+    "附件/javascript.pdf",
+    "附件/react.pdf",
+    "附件/vue.pdf"
+  ]
+}

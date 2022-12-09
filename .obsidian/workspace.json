@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "e1eb439d17ea063f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b43050ba12a4d093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83c65a880479621f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/js/js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22eb1bd7b164e715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "总览.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84b5dece5914ef7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/前端.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7628c225a122a4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/html_css/css.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdd75ce3c3e5dbdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/js/react.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "618ac31ed52c758e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/前端.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44c3bba1477b2618",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f7c5acb9257c58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cad39f4a2dcd13ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "c48cd8787142d5d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "前端",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f2de8334dde82a0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ca8a596d534ee8a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "51aeb5cd6a57f0ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6384311fe052ec6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端/js/react.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09173b0987c244e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端/js/react.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48277909ee82f824",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ef2e853f6dcc42c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端/js/react.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "active": "fdd75ce3c3e5dbdf",
+  "lastOpenFiles": [
+    "前端/浏览器/浏览器缓存.md",
+    "前端/html_css/css.md",
+    "前端/html_css/css模块.md",
+    "前端/前端.md",
+    "总览.md",
+    "前端/浏览器/前端优化.md",
+    "前端/js/VUE.md",
+    "前端/js/npm.md",
+    "前端/静态页面部署.md",
+    "工具/代码管理.md"
+  ]
+}
